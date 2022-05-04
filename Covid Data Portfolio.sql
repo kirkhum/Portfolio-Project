@@ -88,3 +88,7 @@ Join [Portfolio Project]..['Covid Vaccinations$'] vac
 where dea.continent is not null
 and dea.date = '2022-01-02 00:00:00.000'
 order by 7 desc
+
+
+--See Below for Tableau Dashboard of Visualized Data
+https://public.tableau.com/app/profile/kirk.anthony.hum/viz/CovidDashboard_16516377849290/Dashboard1?publish=yes
